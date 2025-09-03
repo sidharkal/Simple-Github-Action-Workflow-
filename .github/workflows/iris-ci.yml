@@ -27,4 +27,4 @@ jobs:
 
     # Run Iris model script
     - name: Run Iris model
-      run: python model.py
+      run: python src/model.py
